@@ -1,14 +1,16 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+![1706622269371](https://github.com/user-attachments/assets/1a0c090d-c198-42cb-8037-d92558aae2a0)
 <h1 align="center">Hi 👋, I'm Indranil Bakshi</h1>
 <h3 align="center">A passionate Machine learning Engineer</h3>
 
-<p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." /> </p>
+<p align="left"> <img align="right" alt="Coding" width="400" src="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indranil-123" alt="indranil-123" /></a> </p>
 
 - 🔭 I’m currently working on **DOC AI**
 
 - 🌱 I’m currently learning **ML OPS**
+
 
 - 💬 Ask me about **Machine Learning, NLP, Deep Learning**
 
